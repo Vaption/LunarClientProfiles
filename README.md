@@ -9,7 +9,7 @@
 ## 💾 Profiles
 <table>
   <tr>
-    <th>Profile</th>
+    <th>Profile Name</th>
     <th>Description</th>
     <th>Source</th>
     <th>Download</th>
