@@ -1,8 +1,5 @@
 <html>
 <head>
-<h1 align="center">
-    Lunar Client Profiles
-</h1>
 <p align="center">
     <a href=https://github.com/Vaption/LunarClientProfiles/releases><img align=center src=".github/images/lcp_banner.png" width="900" alt="banner"></a></br>
 </p>
