@@ -6,12 +6,13 @@
 </head>
 <body>
 
-## Profiles
+## 💾 Profiles
 <table>
   <tr>
-    <th>test</th>
-    <th>test</th>
-    <th>test</th>
+    <th>Profile</th>
+    <th>Description</th>
+    <th>Source</th>
+    <th>Download</th>
   </tr>
   <tr>
     <td>test</td>
