@@ -1,7 +1,7 @@
 <html>
 <head>
 <p align="center">
-    <a href=https://github.com/Vaption/LunarClientProfiles/releases><img align=center src=".github/images/lcp_banner.png" width="600" alt="banner"></a></br>
+    <a href=https://github.com/Vaption/LunarClientProfiles/releases><img align=center src=".github/images/lcp_banner.png" width="900" alt="banner"></a></br>
 </p>
 </head>
 <body>
