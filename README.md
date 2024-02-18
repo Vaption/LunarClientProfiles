@@ -15,12 +15,12 @@
     <th>Download</th>
   </tr>
   <tr>
-    <td>test</td>
+    <td>Dewier</td>
     <td>test</td>
     <td>test</td>
   </tr>
   <tr>
-    <td>test</td>
+    <td>Hurtin</td>
     <td>test</td>
     <td>test</td>
   </tr>
