@@ -15,32 +15,32 @@
   </tr>
   <tr>
     <td>Dewier</td>
-    <td>    <a href=https://github.com/Vaption/LunarClientProfiles/releases><img align=center src=".github/images/lcp_banner.png" width="9" alt="banner"></a></td>
+    <td><a href=https://discord.gg/prodigy><img align=center src=".github/images/prodigy_button.png" width="100" alt="banner"></a></td>
     <td>test</td>
   </tr>
   <tr>
     <td>Hurtin</td>
-    <td>test</td>
+    <td><a href=https://discord.gg/prodigy><img align=center src=".github/images/prodigy_button.png" width="100" alt="banner"></td>
     <td>test</td>
   </tr>
   <tr>
     <td>EREEN [OLD]</td>
-    <td>test</td>
+    <td><a href=https://discord.gg/prodigy><img align=center src=".github/images/prodigy_button.png" width="100" alt="banner"></td>
     <td>test</td>
   </tr>
   <tr>
     <td>EREEN [NEW]</td>
-    <td>test</td>
+    <td><a href=https://discord.gg/prodigy><img align=center src=".github/images/prodigy_button.png" width="100" alt="banner"></td>
     <td>test</td>
   </tr>
   <tr>
     <td>Viprah</td>
-    <td>test</td>
+    <td><a href=https://youtube.com><img align=center src=".github/images/youtube_button.png" width="100" alt="banner"></td>
     <td>test</td>
   </tr>
   <tr>
     <td>Jooonah</td>
-    <td>test</td>
+    <td><a href=https://youtube.com><img align=center src=".github/images/youtube_button.png" width="100" alt="banner"></td>
     <td>test</td>
   </tr>
 </table>
