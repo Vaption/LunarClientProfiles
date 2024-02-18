@@ -9,10 +9,10 @@
 ## 💾 Profiles
 <table>
   <tr>
-    <th>Profile Name</th>
-    <th>Theme Color</th>
-    <th>Source</th>
-    <th>Download</th>
+    <th><strong>Profile Name</strong></th>
+    <th><strong>Theme Color</strong></th>
+    <th><strong>File Source</strong></th>
+    <th><strong>Download Link</strong></th>
   </tr>
   <tr>
     <td><img align=left src=".github/images/skins/dewier_skin.png" width="30" alt="banner"> Dewier's Lunar Profile</td>
