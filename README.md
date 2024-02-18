@@ -6,7 +6,7 @@
 <body>
 
 ## 💾 Profiles
-<table class="center">
+<table style="margin: 0px auto;">
   <tr>
     <th>Profile Name</th>
     <th>Theme Color</th>
