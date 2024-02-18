@@ -14,33 +14,33 @@
     <th>Download</th>
   </tr>
   <tr>
-    <td>Dewier's Lunar Profile</td>
-    <td><a href=https://discord.gg/prodigy><img align=center src=".github/images/prodigy_button.png" width="100" alt="banner"></a></td>
+    <td><img align=center src=".github/images/skins/dewier_skin.png" width="100" alt="banner"> Dewier's Lunar Profile</td>
+    <td><a href=https://discord.gg/prodigy><img align=center src=".github/images/prodigy_button.png" width="100" alt="button"></a></td>
     <td>test</td>
   </tr>
   <tr>
-    <td>Hurtin's Lunar Profile</td>
-    <td><a href=https://discord.gg/prodigy><img align=center src=".github/images/prodigy_button.png" width="100" alt="banner"></td>
+    <td><img align=center src=".github/images/skins/hurtin_skin.png" width="100" alt="banner"> Hurtin's Lunar Profile</td>
+    <td><a href=https://discord.gg/prodigy><img align=center src=".github/images/prodigy_button.png" width="100" alt="button"></td>
     <td>test</td>
   </tr>
   <tr>
-    <td>EREEN's Old Lunar Profile</td>
-    <td><a href=https://discord.gg/prodigy><img align=center src=".github/images/prodigy_button.png" width="100" alt="banner"></td>
+    <td><img align=center src=".github/images/skins/ereen_skin.png" width="100" alt="banner"> EREEN's Old Lunar Profile</td>
+    <td><a href=https://discord.gg/prodigy><img align=center src=".github/images/prodigy_button.png" width="100" alt="button"></td>
     <td>test</td>
   </tr>
   <tr>
-    <td>EREEN's New Lunar Profile</td>
-    <td><a href=https://discord.gg/prodigy><img align=center src=".github/images/prodigy_button.png" width="100" alt="banner"></td>
+    <td><img align=center src=".github/images/skins/ereen_skin.png" width="100" alt="banner"> EREEN's New Lunar Profile</td>
+    <td><a href=https://discord.gg/prodigy><img align=center src=".github/images/prodigy_button.png" width="100" alt="button"></td>
     <td>test</td>
   </tr>
   <tr>
-    <td>Viprah's Lunar Profile</td>
-    <td><a href=https://youtube.com><img align=center src=".github/images/youtube_button.png" width="100" alt="banner"></td>
+    <td><img align=center src=".github/images/skins/viprah_skin.png" width="100" alt="banner"> Viprah's Lunar Profile</td>
+    <td><a href=https://youtube.com><img align=center src=".github/images/youtube_button.png" width="100" alt="button"></td>
     <td>test</td>
   </tr>
   <tr>
-    <td>Jooonah's Lunar Profile</td>
-    <td><a href=https://youtube.com><img align=center src=".github/images/youtube_button.png" width="100" alt="banner"></td>
+    <td><img align=center src=".github/images/skins/jooonah_skin.png" width="100" alt="banner"> Jooonah's Lunar Profile</td>
+    <td><a href=https://youtube.com><img align=center src=".github/images/youtube_button.png" width="100" alt="button"></td>
     <td>test</td>
   </tr>
 </table>
