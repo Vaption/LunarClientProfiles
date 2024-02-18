@@ -59,7 +59,7 @@
     <!-- viprah's profile theme color -->	
     <td>test</td>
     <!-- viprah's profile source -->	
-    <td><a href=https://youtube.com><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
+    <td><a href=https://youtu.be/XoS6h1gNdpg><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
     <!-- viprah's profile download link -->	
     <td><a href=https://github.com/Vaption/LunarClientProfiles/releases><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
@@ -69,7 +69,7 @@
     <!-- jooonah's profile theme color -->	
     <td>test</td>
     <!-- jooonah's profile source -->	
-    <td><a href=https://youtube.com><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
+    <td><a href=https://youtu.be/AIpYFvh7-10><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
     <!-- jooonah's profile download link -->
     <td><a href=https://github.com/Vaption/LunarClientProfiles/releases><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
