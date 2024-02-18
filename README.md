@@ -10,13 +10,12 @@
 <table>
   <tr>
     <th>Profile Name</th>
-    <th>Description</th>
     <th>Source</th>
     <th>Download</th>
   </tr>
   <tr>
     <td>Dewier</td>
-    <td>test</td>
+    <td>    <a href=https://github.com/Vaption/LunarClientProfiles/releases><img align=center src=".github/images/lcp_banner.png" width="9" alt="banner"></a></td>
     <td>test</td>
   </tr>
   <tr>
