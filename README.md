@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <!-- dewier skin & namemc redirect -->	
-    <td><a href=https://namemc.com/profile/Dewier.1><img align=left src=".github/images/skins/dewier_skin.png" width="30" alt="banner"> Dewier's Lunar Profile</a></td>
+    <td><a href=https://namemc.com/profile/Dewier.1><img align=left src=".github/images/skins/dewier_skin.png" width="30" alt="banner"></a> Dewier's Lunar Profile</td>
     <!-- dewier's profile theme color -->	
     <td>test</td>
     <!-- dewier's profile source -->	
@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <!-- hurtin skin & namemc redirect -->	
-    <td><a href=https://namemc.com/profile/Hurtin.5><img align=left src=".github/images/skins/hurtin_skin.png" width="30" alt="banner"> Hurtin's Lunar Profile</a></td>
+    <td><a href=https://namemc.com/profile/Hurtin.5><img align=left src=".github/images/skins/hurtin_skin.png" width="30" alt="banner"></a> Hurtin's Lunar Profile</td>
     <!-- hurtin's profile theme color -->	
     <td>test</td>
     <!-- hurtin's profile source -->	
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <!-- ereen (OLD) skin & namemc redirect -->	
-    <td><a href=https://namemc.com/profile/EREEN.3><img align=left src=".github/images/skins/ereen_skin.png" width="30" alt="banner"> EREEN's Old Lunar Profile</a></td>
+    <td><a href=https://namemc.com/profile/EREEN.3><img align=left src=".github/images/skins/ereen_skin.png" width="30" alt="banner"></a> EREEN's Old Lunar Profile</td>
     <!-- ereen's (OLD) profile theme color -->	
     <td>test</td>
     <!-- ereen's (OLD) profile source -->	
@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <!-- ereen (NEW) skin & namemc redirect -->	
-    <td><a href=https://namemc.com/profile/EREEN.3><img align=left src=".github/images/skins/ereen_skin.png" width="30" alt="banner"> EREEN's New Lunar Profile</a></td>
+    <td><a href=https://namemc.com/profile/EREEN.3><img align=left src=".github/images/skins/ereen_skin.png" width="30" alt="banner"></a> EREEN's New Lunar Profile</td>
     <!-- ereen's (NEW) profile theme color -->	
     <td>test</td>
     <!-- ereen's (NEW) profile source -->
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <!-- viprah skin & namemc redirect -->	
-    <td><a href=https://namemc.com/profile/Viprah.1><img align=left src=".github/images/skins/viprah_skin.png" width="30" alt="banner"> Viprah's Lunar Profile</a></td>
+    <td><a href=https://namemc.com/profile/Viprah.1><img align=left src=".github/images/skins/viprah_skin.png" width="30" alt="banner"></a> Viprah's Lunar Profile</td>
     <!-- viprah's profile theme color -->	
     <td>test</td>
     <!-- viprah's profile source -->	
@@ -65,7 +65,7 @@
   </tr>
   <tr>
     <!-- jooonah skin & namemc redirect -->	
-    <td><a href=https://namemc.com/profile/jooonah.2><img align=left src=".github/images/skins/jooonah_skin.png" width="30" alt="banner"> Jooonah's Lunar Profile</a></td>
+    <td><a href=https://namemc.com/profile/jooonah.2><img align=left src=".github/images/skins/jooonah_skin.png" width="30" alt="banner"></a> Jooonah's Lunar Profile</td>
     <!-- jooonah's profile theme color -->	
     <td>test</td>
     <!-- jooonah's profile source -->	
