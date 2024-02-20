@@ -73,5 +73,35 @@
     <!-- jooonah's profile download link -->
     <td><a href=https://github.com/Vaption/LunarClientProfiles/releases><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
+  <tr>
+    <!-- bedlessnoob skin & namemc redirect -->	
+    <td><a href=https://namemc.com/profile/BedlessNoob.1><img align=left src=".github/images/skins/bedless_skin.png" width="30" alt="banner"></a> BedlessNoob's Lunar Profile</td>
+    <!-- bedlessnoob's profile theme color -->	
+    <td>test</td>
+    <!-- bedlessnoob's profile source -->	
+    <td><a href=https://youtu.be/LXeGZt2gzck><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
+    <!-- bedlessnoob's profile download link -->
+    <td><a href=https://github.com/Vaption/LunarClientProfiles/releases><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+  </tr>
+  <tr>
+    <!-- straaight skin & namemc redirect -->	
+    <td><a href=https://namemc.com/profile/Straaight.2><img align=left src=".github/images/skins/straaight_skin.png" width="30" alt="banner"></a> Straaight's Lunar Profile</td>
+    <!-- straaight's profile theme color -->	
+    <td>test</td>
+    <!-- straaight's profile source -->	
+    <td><a href=https://youtu.be/pdiFSAgItVU><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
+    <!-- straaight's profile download link -->
+    <td><a href=https://github.com/Vaption/LunarClientProfiles/releases><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+  </tr>
+  <tr>
+    <!-- inteledits skin & namemc redirect -->	
+    <td><a href=https://namemc.com/profile/Intel_i7.1><img align=left src=".github/images/skins/intel_skin.png" width="30" alt="banner"></a> Intel_i7's Lunar Profile</td>
+    <!-- inteledits' profile theme color -->	
+    <td>test</td>
+    <!-- inteledits' profile source -->	
+    <td><a href=https://youtu.be/ui26MAMOOOs><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
+    <!-- inteledits' profile download link -->
+    <td><a href=https://github.com/Vaption/LunarClientProfiles/releases><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+  </tr>
 </table>
 </body>
