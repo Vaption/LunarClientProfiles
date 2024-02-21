@@ -64,16 +64,6 @@
     <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
   <tr>
-    <!-- jooonah skin & namemc redirect -->	
-    <td><a href="https://namemc.com/profile/jooonah.2"><img align=left src=".github/images/skins/jooonah_skin.png" width="30" alt="banner"></a> Jooonah's Lunar Profile</td>
-    <!-- jooonah's profile release date -->	
-    <td>May 28th, 2023</td>
-    <!-- jooonah's profile source -->	
-    <td><a href="https://youtu.be/AIpYFvh7-10"><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
-    <!-- jooonah's profile download link -->
-    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
-  </tr>
-  <tr>
     <!-- bedlessnoob skin & namemc redirect -->	
     <td><a href="https://namemc.com/profile/BedlessNoob.1"><img align=left src=".github/images/skins/bedless_skin.png" width="30" alt="banner"></a> BedlessNoob's Lunar Profile</td>
     <!-- bedlessnoob's profile release date -->	
@@ -101,6 +91,26 @@
     <!-- inteledits' profile source -->	
     <td><a href="https://youtu.be/ui26MAMOOOs"><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
     <!-- inteledits' profile download link -->
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+  </tr>
+  <tr>
+    <!-- thelasteve skin & namemc redirect -->	
+    <td><a href="https://namemc.com/profile/TheLaSteve.2"><img align=left src=".github/images/skins/thelasteve_skin.png" width="30" alt="banner"></a> TheLaSteve's Lunar Profile</td>
+    <!-- thelasteve's profile release date -->	
+    <td>April 28th, 2023</td>
+    <!-- thelasteve's profile source -->	
+    <td><a href="https://youtu.be/T_PdvrDW5r8"><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
+    <!-- thelasteve's profile download link -->
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+  </tr>
+  <tr>
+    <!-- gandalfswaginc skin & namemc redirect -->	
+    <td><a href="https://namemc.com/profile/GandalfSwagInc.1"><img align=left src=".github/images/skins/gandalf_skin.png" width="30" alt="banner"></a> GandalfSwagInc's Lunar Profile</td>
+    <!-- gandalfswaginc's profile release date -->	
+    <td>Nov. 12th, 2022</td>
+    <!-- gandalfswaginc's profile source -->	
+    <td><a href="https://youtu.be/j50lGnSq2Nc"><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
+    <!-- gandalfswaginc's profile download link -->
     <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
 </table>
