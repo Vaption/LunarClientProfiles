@@ -116,7 +116,6 @@
 </table>
 </body>
 
-&nbsp;
 # ❓ Not Sure How to Import Profiles?!
 • If you're **running LunarClient on Windows**, you can use <a href="https://github.com/Vaption/LunarClientTools">LunarClientTools</a> to import the profiles found on this archive. LCT is synced with the profiles on this repository, meaning that importing a profile is much easier than before!<br>
 • To Import a profile using LCT, download the script and run it as administrator. Then go to profile management options, and choose **"Import Profiles From the Archive"**.<br>
