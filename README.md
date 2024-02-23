@@ -113,6 +113,36 @@
     <!-- gandalfswaginc's profile download link -->
     <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
+  <tr>
+    <!-- specularpotato skin & namemc redirect -->	
+    <td><a href="https://namemc.com/profile/Specularpotato.1"><img align=left src=".github/images/skins/specular_skin.png" width="30" alt="banner"></a> Specularpotato's Lunar Profile</td>
+    <!-- specularpotato's profile release date -->	
+    <td align=center>April 25th, 2023</td>
+    <!-- specularpotato's profile source -->	
+    <td><a href="https://youtu.be/OwHiDU0kIs4"><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
+    <!-- specularpotato's profile download link -->
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+  </tr>
+  <tr>
+    <!-- scenical skin & namemc redirect -->	
+    <td><a href="https://namemc.com/profile/Scenical.6"><img align=left src=".github/images/skins/scenical_skin.png" width="30" alt="banner"></a> Scenical's Lunar Profile</td>
+    <!-- scenical's profile release date -->	
+    <td align=center>Oct. 14th, 2021</td>
+    <!-- scenical's profile source -->	
+    <td><a href="https://youtu.be/05HMaqmBivY"><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
+    <!-- scenical's profile download link -->
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+  </tr>
+  <tr>
+    <!-- jopig skin & namemc redirect -->	
+    <td><a href="https://namemc.com/profile/Jopig.1"><img align=left src=".github/images/skins/jopig_skin.png" width="30" alt="banner"></a> Jopig's Lunar Profile</td>
+    <!-- jopig's profile release date -->	
+    <td align=center>April 24th, 2023</td>
+    <!-- jopig's profile source -->	
+    <td><a href="https://youtu.be/dIfInfbPv1c"><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
+    <!-- jopig's profile download link -->
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+  </tr>
 </table>
 </body>
 

@@ -1,6 +1,57 @@
 {
-    "version": "1",
-    "profiles": {
-      "dewier": "https://github.com/Vaption/LunarClientProfiles/releases/download/ProfilesAdded/Dewier.zip"
+  "version": "1",
+  "profiles": [
+    {
+      "name": "Dewier",
+      "link": "https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/Dewier.zip"
+    },
+    {
+      "name": "Hurtin",
+      "link": "https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/Dewier.zip"
+    },
+    {
+      "name": "EREEN-OLD",
+      "link": "https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/Dewier.zip"
+    },
+    {
+      "name": "EREEN-NEW",
+      "link": "https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/Dewier.zip"
+    },
+    {
+      "name": "Viprah",
+      "link": "https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/Dewier.zip"
+    },
+    {
+      "name": "BedlessNoob",
+      "link": "https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/Dewier.zip"
+    },
+    {
+      "name": "Straaight",
+      "link": "https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/Dewier.zip"
+    },
+    {
+      "name": "IntelEdits",
+      "link": "https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/Dewier.zip"
+    },
+    {
+      "name": "TheLaSteve",
+      "link": "https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/Dewier.zip"
+    },
+    {
+      "name": "GandalfSwagInc",
+      "link": "https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/Dewier.zip"
+    },
+    {
+      "name": "Specularpotato",
+      "link": "https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/Dewier.zip"
+    },
+    {
+      "name": "Scenical",
+      "link": "https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/Dewier.zip"
+    },
+    {
+      "name": "Jopig",
+      "link": "https://github.com/Vaption/LunarClientProfiles/releases/download/ProfilesAdded/TheLaSteve.zip"
     }
-  }
+  ]
+}
