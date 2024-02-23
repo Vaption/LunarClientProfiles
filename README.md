@@ -150,3 +150,6 @@
 • If you're **running LunarClient on Windows**, you can use <a href="https://github.com/Vaption/LunarClientTools">LunarClientTools</a> to import the profiles found on this archive. The script is in sync with the profiles on this repository, meaning that importing a profile is much easier than you think!<br>
 • To Import a profile using LunarClientTools, download the script and run it as administrator. Then go to profile management options, and choose **"Import Profiles From the Archive"**.<br>
 <a href="https://youtu.be/aSg2Byst3hE">Using Linux?</a> • <a href="https://youtu.be/kuQwEhEWNI0">Using MacOS?</a>
+
+# 📝 License
+LunarClientProfiles is licensed under the <a href="https://github.com/Vaption/LunarClientProfiles/blob/main/LICENSE">MIT license</a>.
