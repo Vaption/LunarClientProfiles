@@ -1,6 +1,6 @@
 <head>
 <p align="center">
-    <a href=https://github.com/Vaption/LunarClientProfiles/releases  ><img align=center src=".github/images/lcp_banner.png" width="900" alt="banner"></a></br>
+  <img align=center src=".github/images/lcp_banner.png" width="900" alt="banner"></br>
 </p>
 </head>
 <body>
