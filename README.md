@@ -21,7 +21,7 @@
     <!-- dewier's profile source -->	
     <td><a href="https://discord.gg/prodigy"><img align=center src=".github/images/buttons/prodigy_button.png" width="100" alt="button"></a></td>
     <!-- dewier's profile download link -->
-    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/dewier.zip"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
   <tr>
     <!-- hurtin skin & namemc redirect -->	
@@ -31,7 +31,7 @@
     <!-- hurtin's profile source -->	
     <td><a href="https://discord.gg/prodigy"><img align=center src=".github/images/buttons/prodigy_button.png" width="100" alt="button"></td>
     <!-- hurtin's profile download link -->	
-    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/hurtin.zip"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
   <tr>
     <!-- ereen (OLD) skin & namemc redirect -->	
@@ -41,7 +41,7 @@
     <!-- ereen's (OLD) profile source -->	
     <td><a href="https://discord.gg/prodigy"><img align=center src=".github/images/buttons/prodigy_button.png" width="100" alt="button"></td>
     <!-- ereen's (OLD) profile download link -->	
-    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/ereen-old.zip"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
   <tr>
     <!-- ereen (NEW) skin & namemc redirect -->	
@@ -51,7 +51,7 @@
     <!-- ereen's (NEW) profile source -->
     <td><a href="https://discord.gg/prodigy"><img align=center src=".github/images/buttons/prodigy_button.png" width="100" alt="button"></td>
     <!-- ereen's (NEW) profile download link -->
-    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/ereen-new.zip"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
   <tr>
     <!-- viprah skin & namemc redirect -->	
@@ -61,7 +61,7 @@
     <!-- viprah's profile source -->	
     <td><a href="https://youtu.be/XoS6h1gNdpg"><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
     <!-- viprah's profile download link -->	
-    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/viprah.zip"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
   <tr>
     <!-- bedlessnoob skin & namemc redirect -->	
@@ -71,7 +71,7 @@
     <!-- bedlessnoob's profile source -->	
     <td><a href="https://youtu.be/LXeGZt2gzck"><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
     <!-- bedlessnoob's profile download link -->
-    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/bedlessnoob.zip"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
   <tr>
     <!-- straaight skin & namemc redirect -->	
@@ -81,7 +81,7 @@
     <!-- straaight's profile source -->	
     <td><a href="https://youtu.be/pdiFSAgItVU"><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
     <!-- straaight's profile download link -->
-    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/straaight.zip"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
   <tr>
     <!-- inteledits skin & namemc redirect -->	
@@ -91,7 +91,7 @@
     <!-- inteledits' profile source -->	
     <td><a href="https://youtu.be/ui26MAMOOOs"><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
     <!-- inteledits' profile download link -->
-    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/intel_i7.zip"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
   <tr>
     <!-- thelasteve skin & namemc redirect -->	
@@ -101,7 +101,7 @@
     <!-- thelasteve's profile source -->	
     <td><a href="https://youtu.be/T_PdvrDW5r8"><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
     <!-- thelasteve's profile download link -->
-    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/thelasteve.zip"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
   <tr>
     <!-- gandalfswaginc skin & namemc redirect -->	
@@ -111,7 +111,7 @@
     <!-- gandalfswaginc's profile source -->	
     <td><a href="https://youtu.be/j50lGnSq2Nc"><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
     <!-- gandalfswaginc's profile download link -->
-    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/gandalfswaginc.zip"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
   <tr>
     <!-- specularpotato skin & namemc redirect -->	
@@ -121,7 +121,7 @@
     <!-- specularpotato's profile source -->	
     <td><a href="https://youtu.be/OwHiDU0kIs4"><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
     <!-- specularpotato's profile download link -->
-    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/specularpotato.zip"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
   <tr>
     <!-- scenical skin & namemc redirect -->	
@@ -131,7 +131,7 @@
     <!-- scenical's profile source -->	
     <td><a href="https://youtu.be/05HMaqmBivY"><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
     <!-- scenical's profile download link -->
-    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/scenical.zip"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
   <tr>
     <!-- jopig skin & namemc redirect -->	
@@ -141,7 +141,7 @@
     <!-- jopig's profile source -->	
     <td><a href="https://youtu.be/dIfInfbPv1c"><img align=center src=".github/images/buttons/youtube_button.png" width="100" alt="button"></td>
     <!-- jopig's profile download link -->
-    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
+    <td><a href="https://github.com/Vaption/LunarClientProfiles/releases/download/Profiles/jopig.zip"><img align=center src=".github/images/buttons/download_button.png" width="200" alt="button"></a></td>
   </tr>
 </table>
 </body>
