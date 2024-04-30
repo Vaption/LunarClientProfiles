@@ -147,7 +147,7 @@
 </body>
 
 # ❓ How to Import Profiles?
-• If you’re using LunarClient on Windows, <a href="https://github.com/Vaption/LunarClientTools">LunarClientTools</a> allows you to import profiles from this archive. The script is in sync with the profiles in this repository, making profile importation a straightforward process.<br>• To import a profile using LunarClientTools:
+• If you’re using LunarClient on Windows, <a href="https://github.com/Vaption/LunarClientTools">LunarClientTools</a> allows you to import profiles from this archive. The script is in sync with the profiles in this repository, making profile importation a straightforward process.
 1. Download the <a href="https://github.com/Vaption/LunarClientTools/releases">latest release</a> of the script.
 2. Right click on it, and run it as an administrator.
 3. Select profile management options, then “**Import Profiles From the Archive**”.
