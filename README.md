@@ -1,6 +1,6 @@
 <head>
 <p align="center">
-  <img align=center src=".github/images/lcp_banner.png" width="900" alt="banner"></br>
+  <img align=center src=".github/images/lcp_banner.png" width="900" alt="banner"><br>
 </p>
 </head>
 <body>
@@ -147,12 +147,11 @@
 </body>
 
 # ❓ How to Import Profiles?
-• If you’re using LunarClient on Windows, <a href="https://github.com/Vaption/LunarClientTools">LunarClientTools</a> allows you to import profiles from this archive. The script is in sync with the profiles in this repository, making profile importation a straightforward process.
-• To import a profile using LunarClientTools:
-1. Download the latest release of the script.
-2. Run it as an administrator.
-3. Navigate to profile management options.
-4. Select “**Import Profiles From the Archive**”
+• If you’re using LunarClient on Windows, <a href="https://github.com/Vaption/LunarClientTools">LunarClientTools</a> allows you to import profiles from this archive. The script is in sync with the profiles in this repository, making profile importation a straightforward process.<br>• To import a profile using LunarClientTools:
+1. Download the <a href="https://github.com/Vaption/LunarClientTools/releases">latest release</a> of the script.
+2. Right click on it, and run it as an administrator.
+3. Select profile management options, then “**Import Profiles From the Archive**”.
+4. Choose the profile you'd like to import, and wait for the process to go through.
 <a href="https://youtu.be/aSg2Byst3hE">Using Linux?</a> • <a href="https://youtu.be/kuQwEhEWNI0">Using MacOS?</a>
 
 # 📝 License
